@@ -1,0 +1,14 @@
+~/work/.gitconfig:
+
+[core]
+  sshCommand = "ssh -i ~/.ssh/work"github.com/google:
+  - user: gemployee
+    oauth_token: ...
+
+github.com/microsoft:
+  - user: msemployee
+    oauth_token: ...
+
+github.com:
+  - user: personal
+    oauth_token: ...
